@@ -6,3 +6,7 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "56ef4280b7dd4b4eb6cf9f91504ccd2f"
+
+[[routes]]
+pattern = "tobyliang.dpdns.org"
+custom_domain = true
