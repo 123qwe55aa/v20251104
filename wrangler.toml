@@ -1,4 +1,4 @@
-name = "v20251104"
+name = "edgetunnel-next"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
@@ -8,7 +8,3 @@ preview_urls = true
 [[kv_namespaces]]
 binding = "KV"
 id = "56ef4280b7dd4b4eb6cf9f91504ccd2f"
-
-[[routes]]
-pattern = "tobyliang.dpdns.org"
-custom_domain = true
